@@ -4,6 +4,6 @@
 
 [[redirects]]
   from = "/*"
-  to = "http://pan.fewdrive.eu.org:5244/:splat"
+  to = "http://vercel.guao.de:5230/:splat"
   status = 200
   force = true
